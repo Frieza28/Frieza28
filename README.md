@@ -1,6 +1,5 @@
-<h1 align="center">Hello 👋, I'm Ricardo Frieza!</h1>
+# Hello 👋, I'm Ricardo Frieza!
 <h3 align="justify">I'm a Portuguese master's student in Computer Science. I enjoy creating web applications, working with databases, and learning about new technologies. I'm passionate about organization and always looking for smarter, more efficient ways to work.</h3>
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=frieza28&label=Profile%20views&color=0e75b6&style=flat" alt="frieza28" />
