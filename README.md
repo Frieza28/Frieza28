@@ -1,5 +1,5 @@
 # Hello 👋, I'm Ricardo Frieza!
-<h3 align="justify">I'm a Portuguese master's student in Computer Science. I enjoy creating web applications, working with databases, and learning about new technologies. I'm passionate about organization and always looking for smarter and more efficient ways to work.</h3>
+<h3 align="justify">I'm a Portuguese master's student in Computer Science. I enjoy creating web applications, working with databases, and learning about new technologies. I'm passionate about organization and always looking for smarter and more efficient ways to work!</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=frieza28&label=Profile%20views&color=0e75b6&style=flat" alt="frieza28" />
@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/ricardo-frieza)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:ricardo_frieza2@sapo.pt)
-
 
 
 ### Languages and Tools
