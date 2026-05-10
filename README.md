@@ -50,7 +50,6 @@
         <p align="left">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" />
         </p>
       </td>
       <td valign="top" width="15%">
