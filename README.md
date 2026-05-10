@@ -34,6 +34,7 @@
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" />
           <img src="https://img.shields.io/badge/Cassandra-1287B1?style=plastic&logo=apache-cassandra&logoColor=white" />
         </p>
+        <br>
       </td>
       <td valign="top" width="25%">
         <h3>Data Engineer</h3>
